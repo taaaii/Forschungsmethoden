@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xml:lang="en"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:migr="http://migration.org/">
+    
+    <rdf:Description rdf:about="migr:246" 
+        rdf:name="Bornschlegel">
+        <migr:heirat rdf:resource="Catharina Zinckhin"/>
+        <migr:heirat rdf:resource="Anna Maria Waylandt"/>
+        <migr:heirat rdf:resource="Barbara Kleißen"/>
+        <migr:heirat rdf:resource="migr:402"/>
+        <migr:heirat rdf:resource="migr:382"/>
+        <migr:heirat rdf:resource="migr:247"/>
+        <migr:heirat rdf:resource="migr:382"/>
+        <migr:TrauzeugeBei rdf:resource="migr:283"/>
+        <migr:TrauzeugeBei rdf:resource="migr:283"/>
+        <migr:TrauzeugeBei rdf:resource="migr:540"/>
+        <migr:TrauzeugeBei rdf:resource="migr:100"/>
+        <migr:TrauzeugeBei rdf:resource="migr:29"/>
+        <migr:TrauzeugeBei rdf:resource="migr:402"/>
+        <migr:TrauzeugeBei rdf:resource="migr:442"/>
+        <migr:TrauzeugeBei rdf:resource="migr:200"/>
+        <migr:TrauzeugeBei rdf:resource="migr:215"/>
+        <migr:TrauzeugeBei rdf:resource="migr:315"/>
+        <migr:PateVon rdf:resource="migr:382"/>
+        <migr:PateVon rdf:resource="migr:341"/>
+        <migr:PateVon rdf:resource="migr:540"/>
+        
+        <migr:PateVon rdf:resource="Anton Gonias Churf"/>
+        <migr:Steuer rdf:resource="Zinck"/>
+    </rdf:Description>
+    
+    
+    <rdf:Description rdf:about="migr:29" rdf:name="Mercklein"/>
+    <rdf:Description rdf:about="migr:64" rdf:name="Waltz">
+        <migr:TrauzeugeBei rdf:resource="migr:29"/>
+        <migr:TrauzeugeBei rdf:resource="migr:200"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:65" rdf:name="Bischoff">
+        <migr:TrauzeugeBei rdf:resource="migr:283"/>
+        <migr:TrauzeugeBei rdf:resource="migr:200"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:73" rdf:name="Bauer">
+        <migr:TrauzeugeBei rdf:resource="migr:246"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:100" rdf:name="Agricola">
+        <migr:PateVon rdf:resource="migr:246"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:106" rdf:name="Stolzenberger">
+        <migr:TrauzeugeBei rdf:resource="migr:246"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:115" rdf:name="Zinck">
+        <migr:TrauzeugeBei rdf:resource="migr:100"/>
+        <migr:TrauzeugeBei rdf:resource="migr:315"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:164" rdf:name="Knorz">
+        <migr:TrauzeugeBei rdf:resource="migr:246"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:200" rdf:name="Schultheis">
+        <migr:heirat rdf:resource="migr:283"/>
+        <migr:heirat rdf:resource="migr:29"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:215" rdf:name="Dürr">
+        <migr:heirat rdf:resource="migr:283"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:241" rdf:name="Schultheiss">
+        <migr:TrauzeugeBei rdf:resource="migr:283"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:247" rdf:name="Fiderling">
+        <migr:TrauzeugeBei rdf:resource="migr:283"/>
+        <migr:TrauzeugeBei rdf:resource="migr:215"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:249" rdf:name="Gromb">
+        <migr:TrauzeugeBei rdf:resource="migr:246"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:283" rdf:name="Strigler">
+        <migr:heirat rdf:resource="migr:215"/>
+        <migr:heirat rdf:resource="migr:200"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:315" rdf:name="Raab"></rdf:Description>
+    <rdf:Description rdf:about="migr:341" rdf:name="Beringer"/>
+    <rdf:Description rdf:about="migr:354" rdf:name="Gonias">
+        <migr:PateVon rdf:resource="migr:246"/>
+        <migr:TrauzeugeBei rdf:resource="migr:246"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:369" rdf:name="Saffnoy">
+        <migr:PateVon rdf:resource="migr:246"/>
+        <migr:TrauzeugeBei rdf:resource="migr:246"/>
+        <migr:TrauzeugeBei rdf:resource="migr:382"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:376" rdf:name="Mützel">
+        <migr:TrauZeugeBei rdf:resource="migr:246"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:382" rdf:name="Brentano"/>
+    <rdf:Description rdf:about="migr:402" rdf:name="Burger">
+        <migr:heirat rdf:resource="migr:442"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:419" rdf:name="Werlein">
+        <migr:TrauzeugeBei rdf:resource="migr:246"/>
+        <migr:TrauzeugeBei rdf:resource="migr:382"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:442" rdf:name="Leschendurst">
+        <migr:heirat rdf:resource="migr:402"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="migr:540" rdf:name="Onghers">
+        <migr:heirat rdf:resource="migr:115"/>
+        <migr:TrauzeugeBei rdf:resource="migr:246"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="Anton Gonias Churf" rdf:name="Anton Gonias Churf"/>
+    <rdf:Description rdf:about="Catharina Zinck" rdf:name="Catharina Zinckh"/>
+    <rdf:Description rdf:about="Barbara Kleißen" rdf:name="Barbara Kleißen"/>
+    <rdf:Description rdf:about="Anna Maria Waylandt" rdf:name="Anna Maria Waylandt"/>
+    <rdf:Description rdf:about="Zinck" rdf:name="Zinckh">
+        <migr:TrauzeugeBei rdf:resource="migr:540"/>
+    </rdf:Description>
+    
+    
+</rdf:RDF>
